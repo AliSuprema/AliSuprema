@@ -1,4 +1,4 @@
 - 👋 Hello! Eu sou **@AliSuprema**
 - 👍 Meu e-mail de contato é alice.sena@escola.pr.gov.br
 - 👀 Estou interessada em aprender novas linguagens de programação 
-- 🌱 Atualmente estou aprendendo JavaScrpit e Scratch
+- 🌱 Atualmente estou aprendendo HTML e CSS
